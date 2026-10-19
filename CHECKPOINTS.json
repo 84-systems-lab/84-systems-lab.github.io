@@ -1,6 +1,6 @@
 {
   "edition": "3",
-  "source_manifest_sha256": "60198c16126aa826bc2ffe02d27ca747c86c4b9c39998e93500cea3d72393240",
+  "source_manifest_sha256": "4fdbd7c5a92fc026c2e4fe2fe528b2dcc24087a102eebfd304f4ec65edc348b6",
   "source_archive": "downloads/enterprise-ai-agent-companion.zip",
   "archive_checksum_file": "downloads/CHECKSUMS.sha256",
   "chapters": [
