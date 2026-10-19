@@ -1,0 +1,80 @@
+{
+  "edition": "3",
+  "source_manifest_sha256": "60198c16126aa826bc2ffe02d27ca747c86c4b9c39998e93500cea3d72393240",
+  "source_archive": "downloads/enterprise-ai-agent-companion.zip",
+  "archive_checksum_file": "downloads/CHECKSUMS.sha256",
+  "chapters": [
+    {
+      "chapter": 1,
+      "archive": "downloads/chapter-01-resources.zip",
+      "sha256": "b480d2232b4610f6e07226cdfc918163945cbc3e6f6f2b98294d9c5c78e4a0e8",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 2,
+      "archive": "downloads/chapter-02-resources.zip",
+      "sha256": "e84e9c34a60e5cd9738b4e8058a1e30a012c3d9850072cc5082d38d0502260bc",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 3,
+      "archive": "downloads/chapter-03-resources.zip",
+      "sha256": "c66ef746b56f9437cf298969593b409c99b26084ec5a914cdba683e74bf6b68c",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 4,
+      "archive": "downloads/chapter-04-resources.zip",
+      "sha256": "f6687860bd1c8fa0eb1a72ceae7c76f10875d8df2b5fd9934da3ec5be0c042f1",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 5,
+      "archive": "downloads/chapter-05-resources.zip",
+      "sha256": "276b1a9a8e69b1a1609e37bc5b6ef018719d9ef3d179c8bcaca9877e851ba073",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 6,
+      "archive": "downloads/chapter-06-resources.zip",
+      "sha256": "3682dfd62c68423a1fbe1c7608e99eb4343d3b07e1a73347ac1a4b0c38ed52d6",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 7,
+      "archive": "downloads/chapter-07-resources.zip",
+      "sha256": "845ed32e5c494b07e0a483086d5794ca5bcca666b487f42ccf0f1bb676915c9d",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 8,
+      "archive": "downloads/chapter-08-resources.zip",
+      "sha256": "af8e6e535c6ef054febf278144a32303297f29a3ba7f5e0a569b3cfb6bc8ce84",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 9,
+      "archive": "downloads/chapter-09-resources.zip",
+      "sha256": "b00982055442d7acc5b8b208d5456fdc5aad292fef38545a1cd472a8d5437b59",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 10,
+      "archive": "downloads/chapter-10-resources.zip",
+      "sha256": "10b00ddbd0584baa99c131b6cefbad509dbd4e2ed041cf938668b21ca117c2d3",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 11,
+      "archive": "downloads/chapter-11-resources.zip",
+      "sha256": "9f0bf877781b2e768faea3fdac3db439ef8c4f2613bc57f096c225102a53fd8d",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    },
+    {
+      "chapter": 12,
+      "archive": "downloads/chapter-12-resources.zip",
+      "sha256": "fbad259b8888d46b6f61c75d44549fb9e97c2a6ca419eba26ffc54d18e19cc4e",
+      "complete_source": "downloads/enterprise-ai-agent-companion.zip"
+    }
+  ]
+}
