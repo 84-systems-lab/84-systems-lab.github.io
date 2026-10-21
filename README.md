@@ -10,11 +10,11 @@ Open http://127.0.0.1:8765. Stop the server with Ctrl+C.
 
 ## GitHub Pages
 
-Create the organization `84-systems-lab` using GitHub Free, then an empty public
-repository named `84-systems-lab.github.io`. Commit these files and push main.
-In Settings → Pages, select Deploy from a branch → main → / (root).
-The intended address is https://84-systems-lab.github.io/; verify deployment
-before using it in print. The name and address are not evidence of deployment.
+The existing public repository is `84-systems-lab/84-systems-lab.github.io`.
+GitHub Pages publishes main from / (root) at https://84-systems-lab.github.io/.
+For an update, review the resource snapshot, commit and push to this repository.
+Verify the deployed homepage, cover, links and download checksums afterwards.
+Do not create a second organization/repository or repeat initial Pages setup.
 
 ## Updating resources
 
